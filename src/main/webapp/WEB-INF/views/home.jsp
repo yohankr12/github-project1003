@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Spring Project!  
+	Spring!  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
